@@ -1,6 +1,6 @@
-# Next.js
+# Supabase + Next.js Example
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Supabase](https://supabase.com/) example built on a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 [Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
@@ -10,5 +10,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+- [Supabase — Docs](https://supabase.com/docs/)
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
 - [Next.js — Docs](https://nextjs.org/docs)
